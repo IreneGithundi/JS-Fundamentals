@@ -5,7 +5,7 @@ let i = 1;
 // let out = "C is fun";
 
 if (mult){
-    while (mult >0)
+    while (mult > 0)
     {
         console.log("C is fun");
         mult--;
