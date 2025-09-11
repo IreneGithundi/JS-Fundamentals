@@ -23,3 +23,6 @@ A Script that prints My number: <first argument converted in integer> if the fir
 
 ## 6-multi_languages_loop.js
 A script that prints 3 lines by using an array of string and a loop. 
+
+## 7-multi_c.js
+A Script that prints x times "C is fun"
