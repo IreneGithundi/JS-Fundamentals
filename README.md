@@ -17,3 +17,6 @@ A script that prints the first argument passed to it without using length
 
 ## 4-concat.js
 A Script that prints 2 arguments passed to it in the format: "is"
+
+##  5-to_integer.js
+A Script that prints My number: <first argument converted in integer> if the first argument can be converted to an integer
