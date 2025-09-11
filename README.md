@@ -30,5 +30,8 @@ A Script that prints x times "C is fun"
 ## 8-square.js
 A Script that prints a square
 
-##  9-add.js
+## 9-add.js
 A Script that Adds Two Integers
+
+## 10-factorial.js
+A Script that computes and prints a factorial. 
