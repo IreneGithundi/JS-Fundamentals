@@ -20,3 +20,6 @@ A Script that prints 2 arguments passed to it in the format: "is"
 
 ##  5-to_integer.js
 A Script that prints My number: <first argument converted in integer> if the first argument can be converted to an integer
+
+## 6-multi_languages_loop.js
+A script that prints 3 lines by using an array of string and a loop. 
