@@ -13,4 +13,7 @@ A Scriot that prints 3 lines:
 A Script that prints a message depending on the number of arguments passed.
 
 ## 3-value_argument.js
-A script that prints the first argument passed to it
+A script that prints the first argument passed to it without using length
+
+## 4-concat.js
+A Script that prints 2 arguments passed to it in the format: "is"
