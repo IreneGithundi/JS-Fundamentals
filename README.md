@@ -26,3 +26,9 @@ A script that prints 3 lines by using an array of string and a loop.
 
 ## 7-multi_c.js
 A Script that prints x times "C is fun"
+
+## 8-square.js
+A Script that prints a square
+
+##  9-add.js
+A Script that Adds Two Integers
