@@ -4,7 +4,7 @@ let value = parseInt(process.argv[2]);
 
 if(value)
 {
-    console.log(`My number is: ${parseInt(value)}`);
+    console.log(`My number: ${parseInt(value)}`);
 }else{
     console.log('Not a number');
 }
